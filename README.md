@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Me chamo Daniel.
+  Olá! Me chamo Daniel.<br>
   Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas e busco me tornar um desenvolvedor FullStack.
 </p>
 
