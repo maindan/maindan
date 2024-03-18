@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Me chamo Daniel, tenho 25 anos e sou natural de Manaus - Am.
+  Olá! Me chamo Daniel.
   Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas e busco me tornar um desenvolvedor FullStack.
 </p>
 
