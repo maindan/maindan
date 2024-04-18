@@ -13,7 +13,7 @@
         <li>Javascript</li>
         <li>Node.js</li>
         <li>React</li>
-        <li>Django</li>
+        <li>Flask</li>
       </ul>
     </li>
     <li>Python</li>
