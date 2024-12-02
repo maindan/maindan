@@ -2,34 +2,7 @@
 
 <p align="left"> 
   Olá! Me chamo Daniel.<br>
-  Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas e busco me tornar um desenvolvedor FullStack.
-</p>
-
-<p align="left">
-  🧑‍💻 Linguagens que estou aprendendo no momento: 
-  <ul>
-    <li> Desenvolvimento Web:
-      <ul>
-        <li>Javascript</li>
-        <li>Node.js</li>
-        <li>React</li>
-        <li>Flask</li>
-      </ul>
-    </li>
-    <li>Python</li>
-    <li>Java</li>
-    <li>C</li>
-  </ul>
-</p>
-
-<p align="left">
-  💼 Ferramentas:
-  <ul>
-    <li>VSCode</li>
-    <li>Eclipse</li>
-    <li>Postman</li>
-    <li>Trello</li>
-  </ul>
+  Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, atualmente focado em desenvolvimento web.
 </p>
 
 <p align="left">
